@@ -1,0 +1,15 @@
+<svg width="560" height="190" viewBox="0 0 560 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Minha Cidade Minha Rua</title>
+  <desc id="desc">Civic issue reporting platform.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="560" y2="190"><stop stop-color="#070809"/><stop offset="1" stop-color="#11171B"/></linearGradient></defs>
+  <rect x="1" y="1" width="558" height="188" rx="18" fill="url(#bg)" stroke="#30363D" stroke-width="2"/>
+  <text x="28" y="35" fill="#6E9EAD" font-family="ui-monospace,monospace" font-size="12" letter-spacing="2">01 / CIVIC TECH</text>
+  <text x="28" y="76" fill="#E6EDF3" font-family="ui-sans-serif,system-ui,sans-serif" font-size="25" font-weight="700">Minha Cidade Minha Rua</text>
+  <text x="28" y="106" fill="#8F9AA2" font-family="ui-sans-serif,system-ui,sans-serif" font-size="15">Helping citizens report urban issues.</text>
+  <rect x="28" y="132" width="102" height="30" rx="15" fill="#141A1E" stroke="#29333A"/><text x="79" y="152" fill="#B8C1C7" text-anchor="middle" font-family="ui-monospace,monospace" font-size="12">JAVASCRIPT</text>
+  <g stroke="#6E9EAD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.8">
+    <path d="M447 143V75L478 54L509 75V143"/><path d="M431 143H525"/><path d="M459 143V116H478V143M459 83H467M489 83H497M459 99H467M489 99H497"/>
+    <path d="M478 54V41M471 47L478 40L485 47" stroke="#B8755E"/>
+  </g>
+</svg>
+

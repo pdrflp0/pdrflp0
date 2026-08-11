@@ -1,0 +1,23 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Pedro Felipe technology stack</title>
+  <desc id="desc">Java, Spring Boot, Node.js, Express, JPA, PostgreSQL, REST, Git, Maven, Godot and GDScript.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="250"><stop stop-color="#060708"/><stop offset="1" stop-color="#11171B"/></linearGradient></defs>
+  <rect x="1" y="1" width="1198" height="248" rx="20" fill="url(#bg)" stroke="#30363D" stroke-width="2"/>
+  <path d="M300 35V215M600 35V215M900 35V215" stroke="#30363D"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="40" y="48" fill="#6E9EAD" font-size="12" letter-spacing="2">CORE / BACKEND</text>
+    <text x="340" y="48" fill="#6E9EAD" font-size="12" letter-spacing="2">APIs / DATA</text>
+    <text x="640" y="48" fill="#6E9EAD" font-size="12" letter-spacing="2">BUILD / TOOLS</text>
+    <text x="940" y="48" fill="#6E9EAD" font-size="12" letter-spacing="2">CREATIVE</text>
+  </g>
+  <g font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" fill="#D4DADF">
+    <text x="40" y="92">Java</text><text x="40" y="127">Spring Boot</text><text x="40" y="162">Node.js</text><text x="40" y="197">Express</text>
+    <text x="340" y="92">REST APIs</text><text x="340" y="127">JPA / Hibernate</text><text x="340" y="162">PostgreSQL</text><text x="340" y="197">Nodemailer</text>
+    <text x="640" y="92">Git &amp; GitHub</text><text x="640" y="127">Maven</text><text x="640" y="162">IntelliJ IDEA</text><text x="640" y="197">VS Code</text>
+    <text x="940" y="92">Godot 4</text><text x="940" y="127">GDScript</text><text x="940" y="162">JavaFX</text><text x="940" y="197">Side Projects</text>
+  </g>
+  <g fill="#B8755E">
+    <rect x="252" y="83" width="4" height="4" rx="2"/><rect x="552" y="83" width="4" height="4" rx="2"/><rect x="852" y="83" width="4" height="4" rx="2"/><rect x="1152" y="83" width="4" height="4" rx="2"/>
+  </g>
+</svg>
+
