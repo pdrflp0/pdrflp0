@@ -1,46 +1,73 @@
-<div id="badges"  align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&lines=Hi,+I'm+%20Pedro%20Felipe,+%20+Welcome!)
-    
-  </div>
-
-<div id="badges"  align="center">
-
-![](https://komarev.com/ghpvc/?username=pdrflp0)
-    <img  src="https://img.shields.io/github/followers/pdrflp0?label=Follow" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/github/stars/pdrflp0?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
-    
-  </div>
-
-<div id="header" align="center">
-    <a href="yhttps://github.com/pdrflp0/">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU4cGtrenM1Y2pwZHZ2MzVlcHJmYzVwdmpyOHFkN3lkd3FzdWZheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="480"/>
-       </a>
+<div align="center">
+  <img src="./assets/obsidian-header.svg" width="100%" alt="Pedro Felipe — Backend Developer" />
 </div>
 
 <div align="center">
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdrflp0&layout=compact&hide=html,hack,css&theme=gotham)](https://github.com/pdrflp0) 
-  <img  height=' 165px' src="https://github-readme-stats.vercel.app/api?username=pdrflp0&show_icons=true&theme=gotham&count_private=true">
+  <a href="https://www.linkedin.com/in/pedro-felipe-a71804217/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6E9EAD" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pedrofelipewk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=B8755E" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/pdr.flp/">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E6EDF3" alt="Instagram" />
+  </a>
 </div>
 
-<div id='lojc' align="center">
-  
-| Tools  | Languages | Frameworks  | Technologies |   
-|---|---|---|---|
-|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;</div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="" alt="J" width="30" height="30"/>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="" alt="J" width="30" height="30"/>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/tortoisegit/tortoisegit-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original-wordmark.svg" title="" alt="J" width="30" height="30"/></div>
+<br />
 
-<div id="badges"  align="center">
-  <a href="https://www.linkedin.com/in/pedro-felipe-a71804217/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+## `> whoami`
 
-  <a href="https://www.instagram.com/pdr.flp/">
-    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
-  </a>
+I'm **Pedro Felipe**, a Computer Science student at **UNIFOR** and a backend developer from Fortaleza, Brazil. I enjoy turning requirements into reliable APIs, integrations and products that solve concrete problems.
 
-  <a href = "mailto:pedrofelipewk@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+My main path is **Java and Spring Boot**, while Node.js and game development are part of how I keep experimenting, learning and building beyond the usual stack.
+
+```java
+public final class PedroFelipe {
+
+    private final String role = "Backend Developer";
+    private final String education = "Computer Science @ UNIFOR";
+    private final String location = "Fortaleza, CE — Brazil";
+
+    private final String[] focus = {
+        "Java", "Spring Boot", "REST APIs", "System Integration"
+    };
+
+    private final String hobby = "Gaming";
+}
+```
+
+## `> featured_projects`
+
+<p align="center">
+  <a href="https://github.com/pdrflp0/Minha-Cidade-Minha-Rua">
+    <img src="./assets/project-city.svg" width="49%" alt="Minha Cidade Minha Rua" />
   </a>
-  
+  <a href="https://github.com/pdrflp0/integration_project_backend">
+    <img src="./assets/project-eletra.svg" width="49%" alt="Eletra Energy Integration" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pdrflp0/EmailUniTreino">
+    <img src="./assets/project-email.svg" width="49%" alt="Email Microservice" />
+  </a>
+  <a href="https://github.com/pdrflp0/space-invaders">
+    <img src="./assets/project-space.svg" width="49%" alt="Space Invaders" />
+  </a>
+</p>
+
+## `> tech_stack`
+
+<div align="center">
+  <img src="./assets/obsidian-stack.svg" width="100%" alt="Pedro Felipe technology stack" />
+</div>
+
+## `> beyond_code`
+
+Outside development, gaming is my main hobby.
+
+<div align="center">
+  <br />
+  <sub><strong>pdrflp · Fortaleza, CE · Brazil</strong></sub>
 </div>
