@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedro-felipe-a71804217/">
+  <a href="https://www.linkedin.com/in/pdrflp/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6E9EAD" alt="LinkedIn" />
   </a>
   <a href="mailto:pedrofelipewk@gmail.com">
@@ -20,7 +20,7 @@
 
 I'm **Pedro Felipe**, a Computer Science student at **UNIFOR** and a backend developer from Fortaleza, Brazil. I enjoy turning requirements into reliable APIs, integrations and products that solve concrete problems.
 
-My main path is **Java and Spring Boot**, while Node.js and game development are part of how I keep experimenting, learning and building beyond the usual stack.
+My main path is **Java and Spring Boot**, and I've been extending that foundation into **TypeScript/NestJS and distributed-systems fundamentals** — idempotency, concurrency control, event-driven architecture — through real technical challenges. Game development is part of how I keep experimenting and building beyond the usual stack.
 
 ```java
 public final class PedroFelipe {
@@ -30,7 +30,7 @@ public final class PedroFelipe {
     private final String location = "Fortaleza, CE — Brazil";
 
     private final String[] focus = {
-        "Java", "Spring Boot", "REST APIs", "System Integration"
+        "Java", "Spring Boot", "TypeScript / NestJS", "Distributed Systems"
     };
 
     private final String hobby = "Gaming";
@@ -38,6 +38,12 @@ public final class PedroFelipe {
 ```
 
 ## `> featured_projects`
+
+<p align="center">
+  <a href="https://github.com/pdrflp0/jungle-gaming-backend-challenge">
+    <img src="./assets/project-wagering-hero.svg" width="100%" alt="Distributed Wagering Processor" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/pdrflp0/Minha-Cidade-Minha-Rua">
