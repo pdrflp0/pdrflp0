@@ -1,0 +1,13 @@
+{
+  "name": "profile-assets",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fonts": "node fetch-fonts.mjs",
+    "build": "node generate-assets.mjs ../assets"
+  },
+  "dependencies": {
+    "opentype.js": "1.3.4",
+    "subset-font": "2.4.0"
+  }
+}
