@@ -3,6 +3,9 @@
 </div>
 
 <div align="center">
+  <a href="https://pdrflp.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-pdrflp.vercel.app-0D1117?style=for-the-badge&labelColor=0D1117&color=FF4FD8&logo=vercel&logoColor=FF4FD8" alt="Portfolio — pdrflp.vercel.app" />
+  </a>
   <a href="https://www.linkedin.com/in/pdrflp/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6E9EAD" alt="LinkedIn" />
   </a>
@@ -21,6 +24,8 @@
 I'm **Pedro Felipe**, a Computer Science student at **UNIFOR** and a backend developer from Fortaleza, Brazil. I enjoy turning requirements into reliable APIs, integrations and products that solve concrete problems.
 
 My main path is **Java and Spring Boot**, and I've been extending that foundation into **TypeScript/NestJS and distributed-systems fundamentals** — idempotency, concurrency control, event-driven architecture — through real technical challenges. Game development is part of how I keep experimenting and building beyond the usual stack.
+
+🌐 **Portfolio: [pdrflp.vercel.app](https://pdrflp.vercel.app)** — case studies, a bug journal, and something on the page that isn't rendering quite right.
 
 ```java
 public final class PedroFelipe {
