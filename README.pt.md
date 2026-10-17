@@ -34,9 +34,9 @@ Vai avaliar meu código? Escolha o tempo que você tem:
 
 | Tempo | Onde olhar |
 | --- | --- |
-| **1 min** | [O Resíduo em 79 segundos](https://github.com/pdrflp0/residuo/blob/main/docs/media/residuo-intro.mp4) — o bug, a correção e a evidência, gravados do app real |
-| **5 min** | [Decisões de projeto do Resíduo](https://github.com/pdrflp0/residuo/blob/main/docs/decisoes.md) · [`ARCHITECTURE.md` do Wagering](https://github.com/pdrflp0/jungle-gaming-backend-challenge/blob/main/ARCHITECTURE.md) — cada trade-off, e o que *ainda não* está provado |
-| **10 min** | O código que importa: [o consumidor protegido](https://github.com/pdrflp0/residuo/blob/main/apps/reference-service/src/consumers.ts) · [o avaliador do veredito](https://github.com/pdrflp0/residuo/blob/main/packages/engine/src/evaluate.ts) · [3 processos do SO disputando a mesma carteira](https://github.com/pdrflp0/jungle-gaming-backend-challenge/blob/main/src/wagering/multi-instance-processes.concurrency.ts) |
+| **1&nbsp;min** | [O Resíduo em 79 segundos](https://github.com/pdrflp0/residuo/blob/main/docs/media/residuo-intro.mp4) — o bug, a correção e a evidência, gravados do app real |
+| **5&nbsp;min** | [Decisões de projeto do Resíduo](https://github.com/pdrflp0/residuo/blob/main/docs/decisoes.md) · [`ARCHITECTURE.md` do Wagering](https://github.com/pdrflp0/jungle-gaming-backend-challenge/blob/main/ARCHITECTURE.md) — cada trade-off, e o que *ainda não* está provado |
+| **10&nbsp;min** | O código que importa: [o consumidor protegido](https://github.com/pdrflp0/residuo/blob/main/apps/reference-service/src/consumers.ts) · [o avaliador do veredito](https://github.com/pdrflp0/residuo/blob/main/packages/engine/src/evaluate.ts) · [3 processos do SO disputando a mesma carteira](https://github.com/pdrflp0/jungle-gaming-backend-challenge/blob/main/src/wagering/multi-instance-processes.concurrency.ts) |
 | **Ao vivo** | [Reproduza o bug do Resíduo no navegador](https://pdrflp.vercel.app/pt/residuo?from=github), passo a passo, nos dois modos |
 
 ## `> ls ./projetos --sort=impacto`

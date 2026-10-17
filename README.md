@@ -34,9 +34,9 @@ Reviewing my code? Pick the time you have:
 
 | Time | Where to look |
 | --- | --- |
-| **1 min** | [Resíduo in 79 seconds](https://github.com/pdrflp0/residuo/blob/main/docs/media/residuo-intro.mp4) — the bug, the fix and the evidence, recorded from the real app |
-| **5 min** | [Wagering `ARCHITECTURE.md`](https://github.com/pdrflp0/jungle-gaming-backend-challenge/blob/main/ARCHITECTURE.md) — every trade-off, and what is *not* proven yet · [Resíduo design decisions](https://github.com/pdrflp0/residuo/blob/main/docs/decisoes.md) (PT) |
-| **10 min** | The code that matters: [the guarded consumer](https://github.com/pdrflp0/residuo/blob/main/apps/reference-service/src/consumers.ts) · [the verdict evaluator](https://github.com/pdrflp0/residuo/blob/main/packages/engine/src/evaluate.ts) · [3 OS processes racing for one wallet](https://github.com/pdrflp0/jungle-gaming-backend-challenge/blob/main/src/wagering/multi-instance-processes.concurrency.ts) |
+| **1&nbsp;min** | [Resíduo in 79 seconds](https://github.com/pdrflp0/residuo/blob/main/docs/media/residuo-intro.mp4) — the bug, the fix and the evidence, recorded from the real app |
+| **5&nbsp;min** | [Wagering `ARCHITECTURE.md`](https://github.com/pdrflp0/jungle-gaming-backend-challenge/blob/main/ARCHITECTURE.md) — every trade-off, and what is *not* proven yet · [Resíduo design decisions](https://github.com/pdrflp0/residuo/blob/main/docs/decisoes.md) (PT) |
+| **10&nbsp;min** | The code that matters: [the guarded consumer](https://github.com/pdrflp0/residuo/blob/main/apps/reference-service/src/consumers.ts) · [the verdict evaluator](https://github.com/pdrflp0/residuo/blob/main/packages/engine/src/evaluate.ts) · [3 OS processes racing for one wallet](https://github.com/pdrflp0/jungle-gaming-backend-challenge/blob/main/src/wagering/multi-instance-processes.concurrency.ts) |
 | **Live** | [Reproduce the Resíduo bug in your browser](https://pdrflp.vercel.app/en/residuo?from=github), step by step, in both modes |
 
 ## `> ls ./projects --sort=impact`
