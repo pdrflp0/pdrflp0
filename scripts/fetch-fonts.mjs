@@ -1,4 +1,5 @@
-import { writeFileSync } from "node:fs";
+import { mkdirSync, writeFileSync } from "node:fs";
+mkdirSync("fonts", { recursive: true });
 const specs = { InstrumentSerif: "Instrument+Serif:ital@0;1", Geist: "Geist:wght@400;500", GeistMono: "Geist+Mono:wght@400;500" };
 for (const [name, spec] of Object.entries(specs)) {
   const css = await (await fetch(`https://fonts.googleapis.com/css2?family=${spec}`, { headers: { "User-Agent": "Wget/1.0" } })).text();
