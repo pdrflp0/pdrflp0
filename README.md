@@ -28,6 +28,10 @@ status       open to internships and junior back-end roles
 where        on-site / hybrid in Fortaleza · remote anywhere
 ```
 
+## `> top -u pdrflp0`
+
+<img src="./assets/stats.svg" width="100%" alt="Player stats, updated daily from the GitHub API: commits and fix commits over the last 12 months, active repositories, languages by commits and a map of the last 26 weeks of contributions." />
+
 ## `> ./start-here`
 
 Reviewing my code? Pick the time you have:

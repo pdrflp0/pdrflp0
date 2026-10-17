@@ -28,6 +28,10 @@ status       aberto a estágio e vagas júnior de back-end
 onde         presencial / híbrido em Fortaleza · remoto de qualquer lugar
 ```
 
+## `> top -u pdrflp0`
+
+<img src="./assets/stats-pt.svg" width="100%" alt="Placar do jogador, atualizado todo dia pela API do GitHub: commits e commits de correção dos últimos 12 meses, repositórios ativos, linguagens por commits e um mapa das últimas 26 semanas de contribuições." />
+
 ## `> ./comece-aqui`
 
 Vai avaliar meu código? Escolha o tempo que você tem:

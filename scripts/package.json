@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "fonts": "node fetch-fonts.mjs",
-    "build": "node generate-assets.mjs ../assets"
+    "build": "node generate-assets.mjs ../assets",
+    "stats": "node generate-stats.mjs ../assets"
   },
   "dependencies": {
     "opentype.js": "1.3.4",
