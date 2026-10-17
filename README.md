@@ -1,13 +1,17 @@
-<a href="https://pdrflp.vercel.app">
+<a href="https://pdrflp.vercel.app/en?from=github">
   <img src="./assets/header.svg" width="100%" alt="Pedro Felipe — back-end developer. Java &amp; TypeScript, distributed systems, PostgreSQL. Open to internships and junior roles." />
 </a>
 
 <p align="center">
-  <a href="https://pdrflp.vercel.app"><img src="https://img.shields.io/badge/portfolio-pdrflp.vercel.app-0D1117?style=for-the-badge&labelColor=0D1117&color=FF4FD8" alt="Portfolio" /></a>
+  <b>English</b> · <a href="./README.pt.md">Português</a>
+</p>
+
+<p align="center">
+  <a href="https://pdrflp.vercel.app/en?from=github"><img src="https://img.shields.io/badge/portfolio-pdrflp.vercel.app-0D1117?style=for-the-badge&labelColor=0D1117&color=FF4FD8" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/pdrflp/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6E9EAD" alt="LinkedIn" /></a>
   <a href="mailto:pedrofelipewk@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=B8755E" alt="Email" /></a>
-  <a href="https://pdrflp.vercel.app/cv/pedro-felipe-en.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-EN-0D1117?style=for-the-badge&labelColor=0D1117&color=232C37" alt="Résumé (EN)" /></a>
-  <a href="https://pdrflp.vercel.app/cv/pedro-felipe-pt.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-PT-0D1117?style=for-the-badge&labelColor=0D1117&color=232C37" alt="Currículo (PT)" /></a>
+  <a href="https://pdrflp.vercel.app/cv/pedro-felipe-en.pdf"><img src="https://img.shields.io/badge/CV-EN-0D1117?style=for-the-badge&labelColor=0D1117&color=232C37" alt="CV (English)" /></a>
+  <a href="https://pdrflp.vercel.app/cv/pedro-felipe-pt.pdf"><img src="https://img.shields.io/badge/CV-PT-0D1117?style=for-the-badge&labelColor=0D1117&color=232C37" alt="CV (Portuguese)" /></a>
 </p>
 
 ## `> whoami`
@@ -23,6 +27,17 @@ experience   2024 · Eletra Energy Solutions — software development fellow
 status       open to internships and junior back-end roles
 where        on-site / hybrid in Fortaleza · remote anywhere
 ```
+
+## `> ./start-here`
+
+Reviewing my code? Pick the time you have:
+
+| Time | Where to look |
+| --- | --- |
+| **1 min** | [Resíduo in 79 seconds](https://github.com/pdrflp0/residuo/blob/main/docs/media/residuo-intro.mp4) — the bug, the fix and the evidence, recorded from the real app |
+| **5 min** | [Wagering `ARCHITECTURE.md`](https://github.com/pdrflp0/jungle-gaming-backend-challenge/blob/main/ARCHITECTURE.md) — every trade-off, and what is *not* proven yet · [Resíduo design decisions](https://github.com/pdrflp0/residuo/blob/main/docs/decisoes.md) (PT) |
+| **10 min** | The code that matters: [the guarded consumer](https://github.com/pdrflp0/residuo/blob/main/apps/reference-service/src/consumers.ts) · [the verdict evaluator](https://github.com/pdrflp0/residuo/blob/main/packages/engine/src/evaluate.ts) · [3 OS processes racing for one wallet](https://github.com/pdrflp0/jungle-gaming-backend-challenge/blob/main/src/wagering/multi-instance-processes.concurrency.ts) |
+| **Live** | [Reproduce the Resíduo bug in your browser](https://pdrflp.vercel.app/en/residuo?from=github), step by step, in both modes |
 
 ## `> ls ./projects --sort=impact`
 
@@ -44,13 +59,17 @@ where        on-site / hybrid in Fortaleza · remote anywhere
 
 Short post-mortems of bugs I reproduced, fixed or hunted down:
 
-- [**The deleted record that came back**](https://pdrflp.vercel.app/en/bugs/resurrection) — a late offline edit, an innocent upsert, and how to prove it.
-- [**Two bets of 80 on a balance of 100**](https://pdrflp.vercel.app/en/bugs/double-spend) — check-then-act, `SELECT … FOR UPDATE` and the database as referee.
-- [**The refund that arrived before the bet**](https://pdrflp.vercel.app/en/bugs/out-of-order) — out-of-order messages, the Outbox pattern and a test that kills the process.
-- [**The test that passed without the lock**](https://pdrflp.vercel.app/en/bugs/the-test-that-lied) — testing the tests by breaking the code on purpose.
+- [**The deleted record that came back**](https://pdrflp.vercel.app/en/bugs/resurrection?from=github) — a late offline edit, an innocent upsert, and how to prove it.
+- [**Two bets of 80 on a balance of 100**](https://pdrflp.vercel.app/en/bugs/double-spend?from=github) — check-then-act, `SELECT … FOR UPDATE` and the database as referee.
+- [**The refund that arrived before the bet**](https://pdrflp.vercel.app/en/bugs/out-of-order?from=github) — out-of-order messages, the Outbox pattern and a test that kills the process.
+- [**The test that passed without the lock**](https://pdrflp.vercel.app/en/bugs/the-test-that-lied?from=github) — testing the tests by breaking the code on purpose.
 
 ## `> cat stack.yml`
 
 <img src="./assets/stack.svg" width="100%" alt="Stack — Java, TypeScript, SQL; Spring Boot, JPA/Hibernate, NestJS, Node.js, Bun, MikroORM; PostgreSQL, Firebase; idempotency, pessimistic locking, Outbox/Inbox, AWS SQS, DDD; JUnit, Mockito, Vitest, Playwright; Docker, GitHub Actions, Maven, Git/GitFlow, Vercel; React, Next.js, React Native, GSAP." />
 
-<a href="https://pdrflp.vercel.app"><img src="./assets/footer.svg" width="100%" alt="Something on pdrflp.vercel.app isn't rendering right." /></a>
+## `> ./contact`
+
+Hiring for a back-end internship or junior role — or just want to talk about distributed systems? **[Email me](mailto:pedrofelipewk@gmail.com)** or send a message on **[LinkedIn](https://www.linkedin.com/in/pdrflp/)**. I'm happy to walk you through any of these projects in a call.
+
+<a href="https://pdrflp.vercel.app/en?from=github"><img src="./assets/fall.svg" width="100%" alt="The player fell off the map and lands in the portal to the portfolio: respawn at pdrflp.vercel.app." /></a>
